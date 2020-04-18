@@ -5,4 +5,8 @@ An example of incorporating basic reproducible research practices into teaching 
 * Full R code script file 
 * R code script file with "fill-in-the-blanks" for use with students 
 
+The National Survey of College Graduates 2017 data file is available from the National Science Foundation website:
+
+* https://ncsesdata.nsf.gov/datadownload/
+
 The corresponding manuscript text is under review and will be added to the repository once it is through the review process. 
